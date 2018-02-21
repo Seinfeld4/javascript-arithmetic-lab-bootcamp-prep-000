@@ -6,10 +6,10 @@ function multiply(a,b) {
   return a*b
 }
 
-divide(a, b) {
+function divide(a, b) {
   return a/b
 }
 
-inc(n) {
+function inc(n) {
   return n += 1
 }
