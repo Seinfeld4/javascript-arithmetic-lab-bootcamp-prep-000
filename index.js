@@ -17,3 +17,11 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
+
+function subtract(a, b) {
+  return a - b
+}
+
+function makeInt(n)) {
+  return parseInt(n)
+}
